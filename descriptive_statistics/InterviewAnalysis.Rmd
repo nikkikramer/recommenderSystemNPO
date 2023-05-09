@@ -1,0 +1,55 @@
+---
+title: "InterviewAnalysis"
+output: html_document
+date: "2023-03-25"
+---
+
+
+```{r cars}
+participants <- read.csv("Participants.csv")
+participants
+```
+
+```{r}
+age <- participants[c('Age..range.')]
+age
+```
+```{r}
+gender <- participants[c('Gender')]
+gender
+```
+```{r}
+# Count number males and females in dataset
+female <- gender[gender == 'Female']
+length(female)
+
+male <- gender[gender == 'Male']
+length(male)
+
+```
+
+
+```{r}
+# Replace age range '18-30' with value '24'
+age[age == '18-30'] <- '24'
+age
+```
+
+```{r}
+# Convert the age to numeric values (as they are currently strings)
+age <- as.numeric(unlist(age))
+class(age['Age..range.'])
+```
+
+```{r}
+# Get the mean age
+meanAge <- mean(age)
+meanAge
+```
+
+
+```{r}
+# Get the standard deviation of age
+stdAge <- sd(age)
+stdAge
+```

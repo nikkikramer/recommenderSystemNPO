@@ -1,0 +1,57 @@
+city;lat;lng;country;iso2;admin_name;capital;population;population_proper
+Amsterdam;523.667;48.833;Netherlands;NL;Noord-Holland;primary;862965;862965
+Rotterdam;519.225;44.792;Netherlands;NL;Zuid-Holland;minor;631155;631155
+Den haag;520.767;42.986;Netherlands;NL;Zuid-Holland;primary;1406000;501725
+Utrecht;520.908;51.222;Netherlands;NL;Utrecht;admin;640000;316448
+Eindhoven;514.408;54.778;Netherlands;NL;Noord-Brabant;minor;398053;209620
+Almere;523.758;52.256;Netherlands;NL;Flevoland;minor;207904;207904
+Groningen;532.167;65.667;Netherlands;NL;Groningen;admin;201462;201462
+Breda;515.875;47.750;Netherlands;NL;Noord-Brabant;minor;183873;183873
+Apeldoorn;522.100;59.700;Netherlands;NL;Gelderland;minor;161156;161156
+Haarlem;523.803;46.406;Netherlands;NL;Noord-Holland;admin;159134;159134
+Zaanstad;524.697;47.767;Netherlands;NL;Noord-Holland;;154037;154037
+Arnhem;519.833;59.167;Netherlands;NL;Gelderland;admin;148070;148070
+s-Hertogenbosch;516.833;53.167;Netherlands;NL;Noord-Brabant;admin;134520;134520
+Leeuwarden;532.000;57.833;Netherlands;NL;Fryslân;admin;124084;124084
+Maastricht;508.483;56.889;Netherlands;NL;Limburg;admin;122378;122378
+Zwolle;525.125;60.944;Netherlands;NL;Overijssel;admin;111805;111805
+Alphen aan den Rijn;521.333;46.500;Netherlands;NL;Zuid-Holland;minor;110986;110986
+Emmen;527.833;69.000;Netherlands;NL;Drenthe;minor;107471;107471
+Delft;520.119;43.594;Netherlands;NL;Zuid-Holland;minor;100011;100011
+Deventer;522.500;62.000;Netherlands;NL;Overijssel;minor;99166;99166
+Hilversum;522.300;51.800;Netherlands;NL;Noord-Holland;minor;87817;87817
+Heerlen;508.833;59.833;Netherlands;NL;Limburg;minor;86833;86833
+Purmerend;525.050;49.639;Netherlands;NL;Noord-Holland;minor;80117;80117
+Lelystad;525.167;54.833;Netherlands;NL;Flevoland;admin;77893;77893
+Roosendaal;515.314;44.556;Netherlands;NL;Noord-Brabant;minor;77032;77032
+Spijkenisse;518.333;43.167;Netherlands;NL;Zuid-Holland;minor;72740;72740
+Ede;520.436;56.667;Netherlands;NL;Gelderland;minor;72460;72460
+Gouda;520.181;47.056;Netherlands;NL;Zuid-Holland;minor;71449;71449
+Zaandam;524.417;48.422;Netherlands;NL;Noord-Holland;minor;68695;68695
+Bergen op Zoom;515.000;43.000;Netherlands;NL;Noord-Brabant;minor;66811;66811
+Capelle aan den IJssel;519.357;45.782;Netherlands;NL;Zuid-Holland;minor;66514;66514
+Veenendaal;520.250;55.550;Netherlands;NL;Utrecht;minor;65589;65589
+Katwijk;522.008;44.153;Netherlands;NL;Zuid-Holland;minor;65302;65302
+Zeist;520.833;52.333;Netherlands;NL;Utrecht;minor;63934;63934
+Nieuwegein;520.314;50.919;Netherlands;NL;Utrecht;minor;63036;63036
+Assen;529.967;65.625;Netherlands;NL;Drenthe;admin;62237;62237
+Roermond;511.933;59.872;Netherlands;NL;Limburg;minor;57308;57308
+Oosterhout;516.431;48.569;Netherlands;NL;Noord-Brabant;minor;55616;55616
+Den Helder;529.583;47.589;Netherlands;NL;Noord-Holland;minor;55604;55604
+Hoogeveen;527.167;64.667;Netherlands;NL;Drenthe;minor;55224;55224
+Kampen;525.500;59.000;Netherlands;NL;Overijssel;minor;53779;53779
+Woerden;520.858;48.833;Netherlands;NL;Utrecht;minor;51156;51156
+Houten;520.261;51.728;Netherlands;NL;Utrecht;minor;49911;49911
+Sittard;510.000;58.667;Netherlands;NL;Limburg;minor;49483;49483
+IJmuiden;524.586;46.194;Netherlands;NL;Noord-Holland;minor;48320;48320
+Middelburg;514.997;36.136;Netherlands;NL;Zeeland;admin;47939;47939
+Harderwijk;523.506;56.172;Netherlands;NL;Gelderland;minor;47581;47581
+Zutphen;521.400;61.950;Netherlands;NL;Gelderland;minor;47423;47423
+Ridderkerk;518.667;46.000;Netherlands;NL;Zuid-Holland;minor;46241;46241
+Kerkrade;508.667;60.667;Netherlands;NL;Limburg;minor;45642;45642
+Zwijndrecht;518.240;46.126;Netherlands;NL;Zuid-Holland;minor;44454;44454
+Vlissingen;514.500;35.833;Netherlands;NL;Zeeland;minor;44417;44417
+Rheden;520.000;60.167;Netherlands;NL;Gelderland;;43816;43816
+Etten-Leur;515.706;46.356;Netherlands;NL;Noord-Brabant;minor;43774;43774
+Zevenaar;519.167;60.833;Netherlands;NL;Gelderland;minor;43488;43488
+Venray;515.258;59.747;Netherlands;NL;Limburg;minor;43326;43326
